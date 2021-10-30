@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologia:
 ## :arrow_forward: Executando o projeto
 No terminal inicie o projeto digitando:
 ```
-$ npm start
+npm start
 ```
 Digite o seu nome:
 ```

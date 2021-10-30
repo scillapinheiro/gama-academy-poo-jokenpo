@@ -33,15 +33,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologia:
 ## :arrow_forward: Executando o projeto
 No terminal inicie o projeto digitando:
 ```
-npm start
+$ npm start
 ```
 Digite o seu nome:
 ```
-Qual o seu nome?  (Jogador)
+? Qual o seu nome?  (Jogador)
 ```
 Use as setas :arrow_up: ou :arrow_down: do teclado para escolher uma opção:
 ```
-Selecione a opção  (Use arrow keys)
+? Selecione a opção  (Use arrow keys)
 > Pedra ✊
   Papel ✋
   Tesoura ✌️

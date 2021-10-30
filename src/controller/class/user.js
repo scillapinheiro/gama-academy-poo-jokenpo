@@ -29,11 +29,11 @@ class User extends MachineOptions {
 
     logic(){
         if (this._selected === this._sort){
-            return `você empatou! A máquina escolheu: ${this._sort}`
+            return `você escolheu ${this._selected} e EMPATOU! A máquina escolheu ${this._sort}`
         } else if ((this._selected === 'Pedra' && this._sort === 'Tesoura') || (this._selected === 'Tesoura' && this._sort === 'Papel') || (this._selected === 'Papel' && this._sort === 'Pedra')){
-            return `você ganhou! A máquina escolheu: ${this._sort}`
+            return `você escolheu ${this._selected} e GANHOU! A máquina escolheu ${this._sort}`
         } else {
-            return `você perdeu! A máquina escolheu: ${this._sort}`
+            return `você escolheu ${this._selected} e PERDEU! A máquina escolheu ${this._sort}`
         }
     }
 

@@ -3,10 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="#-Projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-executando-o-projeto">Executando o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença">Licença</a>
+  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#executando-o-projeto">Executando o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#professor(a)">Professor(a)</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#licença">Licença</a>
 </p>
 
 <p align="center">
@@ -25,7 +26,6 @@ Neste jogo você disputa com a máquina.
 Diferente do projeto original, importei uma biblioteca de emojis para deixar o visual melhor. 
 
 ## :rocket: Tecnologias
-
 Esse projeto foi desenvolvido com as seguintes tecnologia:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -57,6 +57,10 @@ O terminal irá retornar umas das 3 opções:
 (Jogador), você escolheu (sua escolha) e EMPATOU! A máquina escolheu (escolha da máquina)
 ```
 Para jogar novamente você precisa reiniciar a aplicação.
+
+## :green_heart: Professor(a)
+[<img src="https://avatars.githubusercontent.com/u/27295668?v=4" width=115> <br> <sub>Douglas Morais</sub>](https://github.com/mrdouglasmorais)
+| :---: |
 
 ## :memo: Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
